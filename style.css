@@ -1,0 +1,19 @@
+.navbar-brand {
+  padding-left: 35px;
+  font-size: 25px;
+}
+
+.navbar .nav-item .nav-link {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  margin-right: 28px;
+}
+
+.navbar .form-inline {
+  margin-right: 125px;
+}
+
+.btn-login, .btn-register {
+  margin-right: 15px;
+}
